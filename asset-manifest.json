@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/flaming_arrow/static/css/main.14050066.chunk.css",
-    "main.js": "/flaming_arrow/static/js/main.53901e70.chunk.js",
-    "main.js.map": "/flaming_arrow/static/js/main.53901e70.chunk.js.map",
+    "main.js": "/flaming_arrow/static/js/main.2ff4ad62.chunk.js",
+    "main.js.map": "/flaming_arrow/static/js/main.2ff4ad62.chunk.js.map",
     "runtime-main.js": "/flaming_arrow/static/js/runtime-main.db442f59.js",
     "runtime-main.js.map": "/flaming_arrow/static/js/runtime-main.db442f59.js.map",
-    "static/js/2.31a1bb7b.chunk.js": "/flaming_arrow/static/js/2.31a1bb7b.chunk.js",
-    "static/js/2.31a1bb7b.chunk.js.map": "/flaming_arrow/static/js/2.31a1bb7b.chunk.js.map",
+    "static/js/2.03f5edc5.chunk.js": "/flaming_arrow/static/js/2.03f5edc5.chunk.js",
+    "static/js/2.03f5edc5.chunk.js.map": "/flaming_arrow/static/js/2.03f5edc5.chunk.js.map",
     "index.html": "/flaming_arrow/index.html",
     "static/css/main.14050066.chunk.css.map": "/flaming_arrow/static/css/main.14050066.chunk.css.map",
-    "static/js/2.31a1bb7b.chunk.js.LICENSE.txt": "/flaming_arrow/static/js/2.31a1bb7b.chunk.js.LICENSE.txt",
+    "static/js/2.03f5edc5.chunk.js.LICENSE.txt": "/flaming_arrow/static/js/2.03f5edc5.chunk.js.LICENSE.txt",
     "static/media/Menu.css": "/flaming_arrow/static/media/background.4f1836cd.gif",
     "static/media/christmasMusic.84e5cc93.mp3": "/flaming_arrow/static/media/christmasMusic.84e5cc93.mp3",
     "static/media/duong.45617ceb.jpg": "/flaming_arrow/static/media/duong.45617ceb.jpg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.db442f59.js",
-    "static/js/2.31a1bb7b.chunk.js",
+    "static/js/2.03f5edc5.chunk.js",
     "static/css/main.14050066.chunk.css",
-    "static/js/main.53901e70.chunk.js"
+    "static/js/main.2ff4ad62.chunk.js"
   ]
 }
