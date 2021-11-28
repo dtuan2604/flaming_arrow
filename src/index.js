@@ -1,17 +1,31 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from 'react'
+import ReactDOM from 'react-dom'
+import Menu from "./container/Menu/Menu";
+import About from "./container/About/About"
+import UserManual from "./container/UserManual/UserManual"
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import './index.css'
+import GameConsole from "./container/GameConsole/GameConsole";
+import GameBoard from "./component/GameBoard/GameBoard";
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+const HomePage = () =>{
+    
+    return(
+        <div id="App">
+            <Router>
+                <Routes>
+                        <Route path="/" exact element={<Menu />} ></Route>
+                        <Route path="/menu" element={<Menu />} ></Route>
+                        <Route path="/about" element={<About/>} ></Route>
+                        <Route path="/usermanual" element={<UserManual/>} ></Route>
+                        <Route path="/game" element={<GameConsole/>} ></Route>
+                        <Route path="/board" element={<GameBoard/>} ></Route>
+                </Routes>
+            </Router>
+        </div>
+    )
+}
+
+ReactDOM.render(<HomePage />, document.querySelector('#root'))
+
