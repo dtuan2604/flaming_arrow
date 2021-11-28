@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/flaming_arrow/static/css/main.14050066.chunk.css",
+    "main.js": "/flaming_arrow/static/js/main.53901e70.chunk.js",
+    "main.js.map": "/flaming_arrow/static/js/main.53901e70.chunk.js.map",
+    "runtime-main.js": "/flaming_arrow/static/js/runtime-main.db442f59.js",
+    "runtime-main.js.map": "/flaming_arrow/static/js/runtime-main.db442f59.js.map",
+    "static/js/2.31a1bb7b.chunk.js": "/flaming_arrow/static/js/2.31a1bb7b.chunk.js",
+    "static/js/2.31a1bb7b.chunk.js.map": "/flaming_arrow/static/js/2.31a1bb7b.chunk.js.map",
+    "index.html": "/flaming_arrow/index.html",
+    "static/css/main.14050066.chunk.css.map": "/flaming_arrow/static/css/main.14050066.chunk.css.map",
+    "static/js/2.31a1bb7b.chunk.js.LICENSE.txt": "/flaming_arrow/static/js/2.31a1bb7b.chunk.js.LICENSE.txt",
+    "static/media/Menu.css": "/flaming_arrow/static/media/background.4f1836cd.gif",
+    "static/media/christmasMusic.84e5cc93.mp3": "/flaming_arrow/static/media/christmasMusic.84e5cc93.mp3",
+    "static/media/duong.45617ceb.jpg": "/flaming_arrow/static/media/duong.45617ceb.jpg",
+    "static/media/manual_img_fire.0b32b0a3.png": "/flaming_arrow/static/media/manual_img_fire.0b32b0a3.png",
+    "static/media/manual_img_move.6f298c52.png": "/flaming_arrow/static/media/manual_img_move.6f298c52.png",
+    "static/media/tyrese.292737af.jpg": "/flaming_arrow/static/media/tyrese.292737af.jpg",
+    "static/media/volume-on.99e68dca.png": "/flaming_arrow/static/media/volume-on.99e68dca.png",
+    "static/media/warren.a7d6b868.jpg": "/flaming_arrow/static/media/warren.a7d6b868.jpg",
+    "static/media/zijian.315f8b8e.jpg": "/flaming_arrow/static/media/zijian.315f8b8e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db442f59.js",
+    "static/js/2.31a1bb7b.chunk.js",
+    "static/css/main.14050066.chunk.css",
+    "static/js/main.53901e70.chunk.js"
+  ]
+}
