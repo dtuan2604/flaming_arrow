@@ -4,6 +4,7 @@ import Menu from "./container/Menu/Menu";
 import About from "./container/About/About"
 import UserManual from "./container/UserManual/UserManual"
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter } from 'react-router-dom';
 import './index.css'
 import GameConsole from "./container/GameConsole/GameConsole";
 import GameBoard from "./component/GameBoard/GameBoard";
@@ -27,5 +28,10 @@ const HomePage = () =>{
     )
 }
 
-ReactDOM.render(<HomePage />, document.querySelector('#root'))
+ReactDOM.render(
+    <React.StrictMode>
+        <HashRouter>
+            <HomePage />
+        </HashRouter>
+  </React.StrictMode>, document.querySelector('#root'))
 
